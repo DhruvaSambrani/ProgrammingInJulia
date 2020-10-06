@@ -401,9 +401,9 @@ It'll take some time the first time. You need to be connected to the internet
 
 ### Searching for packages
 
-you can simply search for it in google or whatvr. 
+you can simply search for it in google or whatvr.
 
-Most packages will have it like 
+Most packages will have it like
 
 ```julia
 import Pkg
@@ -411,13 +411,13 @@ Pkg.add("Plots")
 ```
 
 But don't bother with that. Just do
+
 ```julia
 julia> ]
 pkg> add Plots
 ```
 
 I already have it, so. Output will look like below
-
 
 ---
 
@@ -430,7 +430,7 @@ First `using` takes some time to precompile
 **First plot ALWAYS takes a lot of time**
 There's a lot of discussion on Plots package repo to make it better, but the way that the package is written, it's hard. `Makie.jl` is better like that, but its still alpha and my god its hell to use right now.
 
-```julia 
+```julia
 PS ProgrammingInJulia$ jl
                _
    _       _ _(_)_     |  Documentation: https://docs.julialang.org
@@ -709,7 +709,7 @@ Now look at the Pluto Notebook.
 
 You can download my notebook [nb0.jl](./nb0.jl) (I've renamed it) and open it in Pluto, OR directly put the url of the notebook in the file path bar in Pluto.
 
-I used an example nb from an MIT course. All rights belong to them. Cool course it is. https://computationalthinking.mit.edu/Fall20/
+I used a nb from an [MIT course](https://computationalthinking.mit.edu/Fall20/) to illustrate opening a hosted nb. All rights belong to them. Cool course it is.
 
 ## With that we are done
 
