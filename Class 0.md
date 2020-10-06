@@ -2,9 +2,10 @@
 
 So hi,
 
-Intro class without sound. **Follow** and play. See [index#tips]
+## Recorded Video
 
 [Class 0 video](class0_compressed.mp4)
+Intro class without sound. **Follow** and play. See [tips](index#tips) for increasing video speed.
 
 ## Installing julia
 
@@ -32,7 +33,7 @@ You could do it using `sudo apt install julia`, but it installs v1.4.1. Hence pr
 
 **Download the v1.5.2 one.**
 
-## Why julia?
+## Why Julia?
 
 I mean, read the website, they do a pretty good job. But for us, speed while still being simple to write is a big plus. Further, because it is optionally typed, its easier to learn as a first language. Sure we've all done IDC 101, but that sucked, largely.
 

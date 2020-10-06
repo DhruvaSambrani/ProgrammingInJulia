@@ -1,11 +1,11 @@
 # Programming In Julia
 
-This is an attempt to introduce Julia to students as a first/second language. 
+This is an attempt to introduce Julia to students as a first/second language.
 Inspired from the MS18 #discussion channel, which will hopefully take off well.
 
 ## Class 0 - Installing Julia - 7th October
 
-Intro pre-recorded video which introduces Julia, Pluto, Plots. Recommended for those who don't know Julia. Those who have done some basic Julia can skip. Or watch at 2x and give feedback. [Class 0](./class0)
+Intro pre-recorded video which introduces Julia, Pluto, Plots. Recommended for those who don't know Julia. Those who have done some basic Julia can skip. Or watch at 2x and give feedback. [Class 0](./Class 0)
 
 ## Class 1 - Computational Structuring in Julia - not fixed
 
