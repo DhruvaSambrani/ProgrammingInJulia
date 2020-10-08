@@ -713,7 +713,7 @@ I used a nb from an [MIT course](https://computationalthinking.mit.edu/Fall20/) 
 
 ## With that we are done
 
-We meet on _FILL THE DATE_ for an intro to Julia and computational thinking and try to simulate a n-body gravitational system!
+We meet on 9th October for an intro to Julia and computational thinking and try to simulate a n-body gravitational system!
 
 I'll send the link to y'all on Discord :smile:
 
