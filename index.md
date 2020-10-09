@@ -20,7 +20,7 @@ What you'll learn (apart from coding)-
 - How to think of interactions between objects
 - How cats and planets are related.
 
-I'll send the Zoom link just before the thing starts on the discord group and here.
+Zoom link - https://us02web.zoom.us/j/82927386253?pwd=RlhhM0R4TVZPNHhKLzI5cmZxa0hIQT09
 
 ## Tips
 
