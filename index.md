@@ -9,6 +9,8 @@ Intro pre-recorded video which introduces Julia, Pluto, Plots. Recommended for t
 
 ## Class 1 - Computational Structuring in Julia - 9th October
 
+[Class 1 Page](Class%201.md)
+
 So as a start of the discussion sessions in PM-18, I'm conducting an Introduction to Julia using N-Body Simulations interactive session on Friday 9th Oct, 4pm.
 
 I'll start off by looking at the question physically, and then go ahead to write code to simulate it. I am going to be using Julia, and urge you to do the same. See Class 0 above. However, logic is language-agnostic, and you can use any of your choice.
@@ -19,8 +21,6 @@ What you'll learn (apart from coding)-
 - How to build a universe from the smallest components
 - How to think of interactions between objects
 - How cats and planets are related.
-
-Zoom link - https://us02web.zoom.us/j/82927386253?pwd=RlhhM0R4TVZPNHhKLzI5cmZxa0hIQT09
 
 ## Tips
 

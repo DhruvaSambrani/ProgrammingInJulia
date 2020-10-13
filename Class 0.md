@@ -4,7 +4,7 @@ So hi,
 
 ## Recorded Video
 
-[Class 0 video](class0_compressed.mp4)
+[Class 0 video](./videos/class0/class0_compressed.mp4)
 Intro class without sound. **Follow** and play. See [tips](index#tips) for increasing video speed.
 
 ## Installing julia
