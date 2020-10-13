@@ -9,7 +9,7 @@ Intro pre-recorded video which introduces Julia, Pluto, Plots. Recommended for t
 
 ## Class 1 - Computational Structuring in Julia - 9th October
 
-[Class 1 Page](Class%201.md)
+[Class 1 Page](Class%201)
 
 So as a start of the discussion sessions in PM-18, I'm conducting an Introduction to Julia using N-Body Simulations interactive session on Friday 9th Oct, 4pm.
 
